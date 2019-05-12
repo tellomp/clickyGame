@@ -1,0 +1,17 @@
+
+footer {
+    background:#047CCB;
+    height: 100px;
+    position: relative;
+    color: #FCFCFC;
+    overflow: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bottom {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    text-align: right;
+    padding: 65px 20px 0px 0px;
+    font-size: 15px;
+}
