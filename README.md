@@ -14,9 +14,21 @@
 
 * The app keeps track of the user's score. 
 
+
+![alt text][logo]
+
+[logo]: https://github.com/tellomp/clickyGame/blob/master/my-app/public/GreysAnatomy.png "Grey's Anatomy Clicky Game"
+
+
 * The user's score is reset to 0 if they click the same image more than once.
 
 * Every time an image is clicked, the images rendered to the page shuffle themselves in a random order.
+
+
+![alt text][lost]
+
+[lost]: https://github.com/tellomp/clickyGame/blob/master/my-app/public/youLost.png "You Lost"
+
 
 * Once the user's score is reset after an incorrect guess, the game restarts.
 
