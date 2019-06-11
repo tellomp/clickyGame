@@ -21,10 +21,12 @@
 * Once the user's score is reset after an incorrect guess, the game restarts.
 
 ### Technologies used
-React
-ES6
-Bootstrap
-CSS
+* React
+* JavaScript ES6
+* Bootstrap
+* CSS
+* yarn
+
 
 ### Live App
 * Play the Grey's Anatomy React Clicky Game here [Grey's Anatomy Clicky Game](https://tellomp-clicky-game.herokuapp.com/).
